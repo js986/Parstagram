@@ -2,7 +2,7 @@
 
 **Parstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories - Part 2
 
@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 
 <img src='parstagram-part2-1.gif' title='Video Walkthrough Fragments' width='250' alt='Video Walkthrough Fragments' />
-<img src='parstagram-part1-2.gif' title='Video Walkthrough Update' width='250' alt='Video Walkthrough Update' />
+<img src='parstagram-part2-2.gif' title='Video Walkthrough Update' width='250' alt='Video Walkthrough Update' />
 
 ## User Stories - Part 1
 
