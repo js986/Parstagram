@@ -27,6 +27,9 @@ The following **optional** features are implemented:
 - [ ] User can like a post and see number of likes for each post in the post details screen.
 
 
+<img src='parstagram-part2-1.gif' title='Video Walkthrough Fragments' width='250' alt='Video Walkthrough Fragments' />
+<img src='parstagram-part1-2.gif' title='Video Walkthrough Update' width='250' alt='Video Walkthrough Update' />
+
 ## User Stories - Part 1
 
 The following **required** functionality is completed:
